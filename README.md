@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OTJ-vie
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me @ObiyomiTobiloba - Twitter, @tobyomy - IG
 
